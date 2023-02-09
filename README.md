@@ -1,4 +1,44 @@
 # htlc8
+HTLC == hash time lock contract   
+try simple ui before adding money   
+
+player   // public key shortcut, can be next not yet   
+time     // now     
+expiry   // 8 seconds from now  default for testing     
+oo       // options "yes|no" default    
+action   // write to timechain how player bets    
+name     // "htlc8" default     
+describe // "push git" default   
+later    // check if repo pushed before expiry    
+result   // write to timechain what happens on expiry   
+
+
+# htlc8a mvp   
+![htlc8a mvp img](https://i.imgur.com/wN0MDxR.png)
+
+.   
+.   
+.   
+.   
+.   
+.   
+.   
+.   
+.   
+.   
+.   
+.   
+.   
+.   
+.   
+.   
+.   
+.   
+.   
+.   
+
+stuff below later maybe if above ok thanks   
+
 
 HTLC = hash time-lock contract    
 8 hours from now, thing happens or not    
@@ -26,7 +66,8 @@ and play w 8 hour loop
 
 https://t.me/rust_in_bitcoin miniscript maybe but we prolly don't need money yet   
 
-ui:      
+
+# htlc8b maybe        
 1 input offer // get player input prolly on paste   
 2 find offer // on input '.oo' list oo things   
 3 format offer // time, options, name, description on one line for now      
