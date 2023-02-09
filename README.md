@@ -28,7 +28,7 @@ https://t.me/rust_in_bitcoin miniscript maybe but we prolly don't need money yet
 
 ui:      
 1 input offer // get player input prolly on paste   
-2 find offer // on input '.oo' list oo things
+2 find offer // on input '.oo' list oo things   
 3 format offer // time, options, name, description on one line for now      
 4 select option // make options clickable    
 a if player selects write to timechain // switch bet easy, apply latest bet       
