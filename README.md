@@ -24,6 +24,14 @@ or anything similar, text only is best
 so player need less ui and make options easy   
 and play w 8 hour loop    
 
-https://t.me/rust_in_bitcoin miniscript maybe but we prolly don't need money yet  
+https://t.me/rust_in_bitcoin miniscript maybe but we prolly don't need money yet   
 
-i'll post more ui maybes, but any loop fast is best, thanks  
+ui:      
+1 input offer // get player input prolly on paste   
+2 find offer // on input '.oo' list oo things
+3 format offer // time, options, name, description on one line for now      
+4 select option // make options clickable    
+a if player selects write to timechain // switch bet easy, apply latest bet       
+5 write timechain result on expiry // tell player this game is over        
+
+![htlc8a img](https://i.imgur.com/Q9PZlWk.png)
