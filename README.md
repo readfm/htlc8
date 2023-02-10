@@ -2,6 +2,22 @@
 HTLC == hash time lock contract   
 try simple ui before adding money   
 
+below not even a spec yet, just ideas for simple ui to:    
+make options easy to make/select in contenteditable TEXT   
+test the flow, see what we need before doing real HTLC  
+
+# thlc8a
+
+strictly timechain plans future above present input while logging past below, one time dimension
+
+http://timechain.one simple timechain: on enter the timed input line writes under next line to input
+
+time hash lock contract on timechain can put actionable offers ABOVE input area and log   
+
+![strictly timechain version](https://i.imgur.com/5haCX9M.png)
+
+# htlc8b mvp  
+
 player   // public key shortcut, can be next not yet   
 time     // now     
 expiry   // 8 seconds from now  default for testing     
@@ -11,9 +27,7 @@ name     // "htlc8" default
 describe // "push git" default   
 later    // check if repo pushed before expiry    
 result   // write to timechain what happens on expiry   
-
-
-# htlc8a mvp   
+ 
 ![htlc8a mvp img](https://i.imgur.com/wN0MDxR.png)
 
 .   
@@ -67,7 +81,7 @@ and play w 8 hour loop
 https://t.me/rust_in_bitcoin miniscript maybe but we prolly don't need money yet   
 
 
-# htlc8b maybe        
+# htlc8c maybe        
 1 input offer // get player input prolly on paste   
 2 find offer // on input '.oo' list oo things   
 3 format offer // time, options, name, description on one line for now      
