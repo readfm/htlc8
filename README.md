@@ -2,9 +2,18 @@
 HTLC == hash time lock contract   
 try simple ui before adding money   
 
-below not even a spec yet, just ideas for simple ui to:    
 make options easy to make/select in contenteditable TEXT   
 test the flow, see what we need before doing real HTLC  
+
+# simple
+
+keep input in permanent one place (directly under url)
+
+| < find open contract (future clickables) on "|" options input
+
+0000000008 |yes|no| show seconds remaining before EXPRIY in timechain
+
+![maybe](https://i.imgur.com/TDBih03.png)
 
 # thlc8a
 
