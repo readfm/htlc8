@@ -13,7 +13,7 @@ keep input in permanent one place (directly under url)
 
 0000000008 |yes|no| show seconds remaining before EXPRIY in timechain
 
-![maybe](https://i.imgur.com/TDBih03.png)
+![maybe](https://i.imgur.com/VhLR5Oy.png)
 
 # thlc8a
 
